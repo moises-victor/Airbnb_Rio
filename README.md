@@ -19,7 +19,6 @@ Ou ainda, para o locador comum, dado o imóvel que ele está buscando, ajudar a 
 - O que temos disponível, inspirações e créditos
 
 As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
-
     - As bases de dados são os preços dos imóveis obtidos e suas respectivas características em cada mês.
     - Os preços são dados em reais (R$)
     - Temos bases de abril de 2018 a maio de 2020, com exceção de junho de 2018 que não possui base de dados
