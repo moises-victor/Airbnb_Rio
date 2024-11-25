@@ -17,11 +17,12 @@ Construir um modelo de previsão de preço que permita uma pessoa comum que poss
 Ou ainda, para o locador comum, dado o imóvel que ele está buscando, ajudar a saber se aquele imóvel está com preço atrativo (abaixo da média para imóveis com as mesmas características) ou não.
 
 - O que temos disponível, inspirações e créditos
-As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro. A construção deste modelo teve como inspiração a solução dada por Allan Bruno do kaggle no Notebook: https://www.kaggle.com/allanbruno/helping-regular-people-price-listings-on-airbnb
 
     - As bases de dados são os preços dos imóveis obtidos e suas respectivas características em cada mês.
     - Os preços são dados em reais (R$)
     - Temos bases de abril de 2018 a maio de 2020, com exceção de junho de 2018 que não possui base de dados
+
+As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro. A construção deste modelo teve como inspiração a solução dada por Allan Bruno do kaggle no Notebook: https://www.kaggle.com/allanbruno/helping-regular-people-price-listings-on-airbnb
 
 - Expectativas Iniciais
 
